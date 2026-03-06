@@ -8,6 +8,7 @@
 <body>
     <h1>Tableau indexé</h1>
     <?php
+    
 $fruits = ["pomme", 
 		   "poire",
 		   "banane",
