@@ -39,7 +39,7 @@ if (estPair($numerique)){
     <p>Et ici vous pouvez l'essayer par vous même </p>
     <form action="20-ma-fonction.php" method="POST">
         <label for="chiffreE">Entrez un chiffre</label>
-        <input type="text" name="chiffreAEvaluer" id="chiffreE">
+        <input type="number" name="chiffreAEvaluer" id="chiffreE">
         <input type="submit">
     </form>
     <?="<br>"?>
