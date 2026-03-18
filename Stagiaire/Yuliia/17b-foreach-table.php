@@ -15,3 +15,4 @@ foreach ($personne as $cle => $valeur) {
     echo "<td>$valeur</td>";
     echo "</tr>";
 }
+
