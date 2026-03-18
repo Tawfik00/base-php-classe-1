@@ -23,6 +23,18 @@ echo "</table>";
     <title>foreach table</title>
 </head>
 <body>
+<style>
+    body{
+        display : inline;
+        background-color : #000000;
+        color : white;
+      
+    }
+    table{
+        text-align : center;
+         
+    }
 
+</style>
 </body>
 </html>
